@@ -1,0 +1,38 @@
+.new-comment {
+    display: flex;
+    justify-content: space-between;
+    gap: 15px;
+    width: 100%;
+    height: 15vh;
+    margin-bottom: 40px;
+    padding: 15px;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.new-comment__photo {
+    width: 30px;
+    height: 30px;
+    background-color: rgba(0, 0, 0, .2);
+    border-radius: 50%;
+}
+
+.new-comment__photo-user {
+    width: 100%;
+    min-width: 30px;
+}
+
+.new-comment__form {
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    height: 100%;
+}
+
+.new-comment__textarea {
+    width: 80%;
+    height: 100%;
+    resize: none;
+    border-color: hsl(223, 19%, 93%);
+    font-family: sans-serif;
+}

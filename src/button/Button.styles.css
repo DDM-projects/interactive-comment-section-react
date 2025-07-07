@@ -1,0 +1,63 @@
+.button__delete {
+    all: unset;
+    width: 50%;
+    padding: 10px 15px;
+    border-radius: 5px;
+    color: hsl(228, 33%, 97%);
+    text-transform: uppercase;
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: 1.4rem;
+}
+
+.button__delete--no {
+    background-color: hsl(238, 40%, 52%);
+}
+
+.button__delete--yes {
+    background-color: hsl(358, 79%, 66%);
+}
+
+.button__log-and-register,
+.button__logout {
+    padding: 5px 10px;
+    font-size: 1.6rem;
+    font-family: sans-serif;
+    background-color: white;
+    border-radius: 15px;
+    color: black;
+    font-weight: 600;
+    cursor: pointer;
+    text-align: center;
+    border: 2px black solid;
+}
+
+.button__logout {
+    width: 88px;
+}
+
+.button__score {
+    all: unset;
+    cursor: pointer;
+}
+
+.button__comment-action {
+    all: unset;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    cursor: pointer;
+}
+
+.button__form-action {
+    padding: 10px 20px;
+    height: fit-content;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    background-color: hsl(238, 40%, 52%);
+    text-transform: uppercase;
+    font-family: sans-serif;
+    font-weight: 500;
+    cursor: pointer;
+}

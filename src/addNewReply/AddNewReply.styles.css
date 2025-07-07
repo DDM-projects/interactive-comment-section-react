@@ -1,0 +1,42 @@
+.reply {
+    display: flex;
+    justify-content: space-between;
+    gap: 15px;
+    width: calc(100% - 20px);
+    min-height: fit-content;
+    height: 15vh;
+    padding: 15px;
+    margin-left: 20px;
+    background-color: hsl(0, 0%, 100%);
+    color: hsl(211, 10%, 45%);
+    border-radius: 5px;
+    font-size: 1.4rem;
+}
+
+.reply__photo {
+    width: 30px;
+    height: 30px;
+    background-color: rgba(0, 0, 0, .2);
+    border-radius: 50%;
+}
+
+.reply__photo-user {
+    width: 100%;
+    min-width: 30px;
+}
+
+.reply__form {
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    height: 100%;
+}
+
+.reply__textarea {
+    width: 80%;
+    height: 100%;
+    min-height: 60px;
+    resize: none;
+    border-color: hsl(223, 19%, 93%);
+    font-family: sans-serif;
+}
