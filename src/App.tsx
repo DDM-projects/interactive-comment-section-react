@@ -4,7 +4,7 @@ import "./Global.css";
 import { NewUser } from "./modal/ModalRegister";
 import CurrentUserContext from "./contexts/CurrentUserContext";
 import UsersContext from "./contexts/UsersContext";
-import { BrowserRouter as Router, Routes, Route, Navigate } from "react-router-dom";
+import { HashRouter as Router, Routes, Route, Navigate } from "react-router-dom";
 import Home from "./home/Home";
 import Comments from "./comments/Comments";
 import Contact from "./contact/Contact";
