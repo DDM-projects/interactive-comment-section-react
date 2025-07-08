@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/interactive-comment-section-react/static/css/main.d383d5e0.css",
-    "main.js": "/interactive-comment-section-react/static/js/main.17c75df2.js",
+    "main.js": "/interactive-comment-section-react/static/js/main.a5fce532.js",
     "index.html": "/interactive-comment-section-react/index.html",
     "static/media/icon-plus.svg": "/interactive-comment-section-react/static/media/icon-plus.0037a825a550965779412c2890bd328b.svg",
     "static/media/icon-edit.svg": "/interactive-comment-section-react/static/media/icon-edit.b0c7f9ebaec367bd3ae2539df8b55ff9.svg",
@@ -9,10 +9,10 @@
     "static/media/icon-minus.svg": "/interactive-comment-section-react/static/media/icon-minus.4aa6933cb1575b3c54fa67d84a61efaf.svg",
     "static/media/icon-delete.svg": "/interactive-comment-section-react/static/media/icon-delete.86cedbf2e37529f9c8f1f744254059b0.svg",
     "main.d383d5e0.css.map": "/interactive-comment-section-react/static/css/main.d383d5e0.css.map",
-    "main.17c75df2.js.map": "/interactive-comment-section-react/static/js/main.17c75df2.js.map"
+    "main.a5fce532.js.map": "/interactive-comment-section-react/static/js/main.a5fce532.js.map"
   },
   "entrypoints": [
     "static/css/main.d383d5e0.css",
-    "static/js/main.17c75df2.js"
+    "static/js/main.a5fce532.js"
   ]
 }
