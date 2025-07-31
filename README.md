@@ -1,4 +1,5 @@
 # Frontend Mentor - Interactive comments section solution
+Live Site URL: [Interactive comments section](https://ddm-projects.github.io/interactive-comment-section-react)
 
 This is a solution to the [Interactive comments section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-comments-section-iG1RugEG9). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
@@ -13,7 +14,6 @@ Project was created only for desktop view. Project was a little modified and som
 -   [Overview](#overview)
     -   [The challenge](#the-challenge)
     -   [Screenshot](#screenshot)
-    -   [Links](#links)
 -   [My process](#my-process)
     -   [Built with](#built-with)
 -   [Author](#author)
@@ -33,10 +33,6 @@ Users should be able to:
 ### Screenshot
 
 ![Project](public/project.png)
-
-### Links
-
--   Live Site URL: [Live Site](https://ddm-projects.github.io/interactive-comment-section-react)
 
 ## My process
 
